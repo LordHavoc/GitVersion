@@ -8,7 +8,7 @@ $VLanSelection = ""
 
 
 $Range = 1..255
-$VLanSelection = ('192.168.96','192.168.97','159.170.208','159.170.209','159.170.210','159.170.211') <#<---Put your vlans in here#>
+$VLanSelection = (xxxxxxx) <#<---Put your vlans in here#>
 
 
 
